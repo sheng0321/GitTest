@@ -4,3 +4,7 @@ hello, my first file.
 ## The question
 - why?
 - what happened?
+## this italics
+* italics *
+  ### this is bold
+  ** bold**
