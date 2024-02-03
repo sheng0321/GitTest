@@ -1,4 +1,6 @@
-#This a new File
+# This a new File
+There should be a space between the hash sign and the This.
 hello, my first file.
-
-why? what happened?
+## The question
+- why?
+- what happened?
